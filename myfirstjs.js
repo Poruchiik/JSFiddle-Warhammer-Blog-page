@@ -1,6 +1,6 @@
 var favGod = prompt("What is your favourite Chaos God?");
 
-var nameEl = document.getElementById('favGod');
+var nameEl = document.getElementById('replaceGod');
 nameEl.innerHTML = "All will follow " + favGod + "!";
 
 /*var ageEl = document.getElementById('ageCalc');
