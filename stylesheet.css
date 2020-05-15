@@ -1,0 +1,43 @@
+#container {
+    height: 100%;
+    width: 100%;
+    background-color: #faebd7;
+}
+
+.textaligncenter {
+    text-align: center;
+}
+
+.textalignleft {
+    text-align: left;
+}
+
+.vertical-menu {
+    width: 200px;
+    float: left;
+    background-color: #faebd7;
+}
+
+.vertical-menu a {
+    background-color: #cc9966;
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+}
+
+.vertical-menu a:hover {
+    background-color: #fdd1a5;
+}
+
+.vertical-menu a.active {
+    background-color: #d9e7c1;
+    color: #000;
+}
+
+h1 {
+    background-color: #c1cdc1;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: auto;
+}
